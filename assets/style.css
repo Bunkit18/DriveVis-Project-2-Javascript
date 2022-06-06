@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #3fcab3;
+    color: #141414;
+}
+
+#homeText {
+    background-color: #dcfff5;
+    text-align: center;
+    display: inline-block;
+    margin: 5%;
+    padding: 2.5em;
+}
+
+#start {
+    font-size: large;
+}
+
+nav {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}
